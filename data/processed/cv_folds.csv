@@ -1,0 +1,101 @@
+model,fold,accuracy
+Naive Bayes,1,70.0
+Naive Bayes,2,68.33
+Naive Bayes,3,71.67
+Naive Bayes,4,68.33
+Naive Bayes,5,63.33
+Naive Bayes,6,68.33
+Naive Bayes,7,65.0
+Naive Bayes,8,66.67
+Naive Bayes,9,66.67
+Naive Bayes,10,63.33
+Naive Bayes,11,65.0
+Naive Bayes,12,63.33
+Naive Bayes,13,68.33
+Naive Bayes,14,66.67
+Naive Bayes,15,65.0
+Naive Bayes,16,66.67
+Naive Bayes,17,66.67
+Naive Bayes,18,66.67
+Naive Bayes,19,65.0
+Naive Bayes,20,68.33
+Naive Bayes,21,68.33
+Naive Bayes,22,60.0
+Naive Bayes,23,66.67
+Naive Bayes,24,63.33
+Naive Bayes,25,75.0
+Logistic Regression,1,80.0
+Logistic Regression,2,78.33
+Logistic Regression,3,76.67
+Logistic Regression,4,76.67
+Logistic Regression,5,68.33
+Logistic Regression,6,75.0
+Logistic Regression,7,71.67
+Logistic Regression,8,76.67
+Logistic Regression,9,76.67
+Logistic Regression,10,78.33
+Logistic Regression,11,75.0
+Logistic Regression,12,76.67
+Logistic Regression,13,75.0
+Logistic Regression,14,73.33
+Logistic Regression,15,75.0
+Logistic Regression,16,76.67
+Logistic Regression,17,80.0
+Logistic Regression,18,75.0
+Logistic Regression,19,75.0
+Logistic Regression,20,73.33
+Logistic Regression,21,80.0
+Logistic Regression,22,73.33
+Logistic Regression,23,75.0
+Logistic Regression,24,76.67
+Logistic Regression,25,76.67
+SVM,1,90.0
+SVM,2,83.33
+SVM,3,80.0
+SVM,4,85.0
+SVM,5,76.67
+SVM,6,83.33
+SVM,7,80.0
+SVM,8,78.33
+SVM,9,78.33
+SVM,10,81.67
+SVM,11,75.0
+SVM,12,80.0
+SVM,13,83.33
+SVM,14,81.67
+SVM,15,85.0
+SVM,16,80.0
+SVM,17,86.67
+SVM,18,81.67
+SVM,19,78.33
+SVM,20,80.0
+SVM,21,86.67
+SVM,22,81.67
+SVM,23,78.33
+SVM,24,80.0
+SVM,25,78.33
+Hybrid TF-IDF + SVM,1,90.0
+Hybrid TF-IDF + SVM,2,86.67
+Hybrid TF-IDF + SVM,3,78.33
+Hybrid TF-IDF + SVM,4,88.33
+Hybrid TF-IDF + SVM,5,83.33
+Hybrid TF-IDF + SVM,6,86.67
+Hybrid TF-IDF + SVM,7,83.33
+Hybrid TF-IDF + SVM,8,78.33
+Hybrid TF-IDF + SVM,9,83.33
+Hybrid TF-IDF + SVM,10,85.0
+Hybrid TF-IDF + SVM,11,78.33
+Hybrid TF-IDF + SVM,12,81.67
+Hybrid TF-IDF + SVM,13,90.0
+Hybrid TF-IDF + SVM,14,83.33
+Hybrid TF-IDF + SVM,15,90.0
+Hybrid TF-IDF + SVM,16,83.33
+Hybrid TF-IDF + SVM,17,83.33
+Hybrid TF-IDF + SVM,18,80.0
+Hybrid TF-IDF + SVM,19,85.0
+Hybrid TF-IDF + SVM,20,85.0
+Hybrid TF-IDF + SVM,21,85.0
+Hybrid TF-IDF + SVM,22,85.0
+Hybrid TF-IDF + SVM,23,85.0
+Hybrid TF-IDF + SVM,24,83.33
+Hybrid TF-IDF + SVM,25,81.67

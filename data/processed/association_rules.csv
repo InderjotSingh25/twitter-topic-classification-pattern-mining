@@ -1,0 +1,9 @@
+min_support,rule,antecedent,consequent,support,confidence,lift
+0.02,usopen → nadal,usopen,nadal,2.35,63.64,18.96
+0.02,nadal → usopen,nadal,usopen,2.35,70.0,18.96
+0.02,kerala → flood,kerala,flood,2.01,85.71,6.55
+0.02,mental → health,mental,health,3.36,90.91,4.67
+0.02,care → health,care,health,4.03,80.0,4.11
+0.02,usopen → sports,usopen,sports,2.01,54.55,2.71
+0.03,mental → health,mental,health,3.36,90.91,4.67
+0.03,care → health,care,health,4.03,80.0,4.11

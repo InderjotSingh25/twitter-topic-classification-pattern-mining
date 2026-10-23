@@ -1,0 +1,11 @@
+step_no,step,branch,what_happens,tool
+1,Collect tweets,Shared,"351 tweets across 5 topics: sports, health, flood, terrorism, politics",CSV file
+2,Clean data,Shared,"Remove missing values and duplicate tweets, leaving 300 tweets",pandas
+3,Preprocess text,Shared,"Lowercase; remove URLs, @mentions, RT, hashtag signs and symbols",Python regex
+4,Split data,Classification,80/20 stratified split: 240 training and 60 test tweets,scikit-learn
+5,Extract features,Classification,Word TF-IDF (1-2 grams) plus character TF-IDF (3-5 grams),TfidfVectorizer
+6,Train models,Classification,"Naive Bayes, Logistic Regression, SVM and Hybrid TF-IDF + SVM",scikit-learn
+7,Evaluate,Classification,Test-set metrics plus 5-fold x 5 repeat cross-validation,scikit-learn
+8,Build transactions,Pattern mining,One transaction per tweet: its set of non-stopwords,mlxtend
+9,Mine itemsets,Pattern mining,Apriori and FP-Growth at 3% support give 21 identical itemsets,mlxtend
+10,Derive rules,Pattern mining,"Support, confidence and lift; strongest rule is mental to health",mlxtend

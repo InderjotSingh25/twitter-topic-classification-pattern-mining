@@ -1,0 +1,8 @@
+stage_order,stage,branch,rows
+1,Original dataset,Shared,351
+2,After cleaning,Shared,300
+3,Training set (80%),Classification,240
+4,Test set (20%),Classification,60
+5,Tweets as transactions,Pattern mining,298
+6,Frequent itemsets (3% support),Pattern mining,21
+7,Association rules,Pattern mining,2

@@ -1,0 +1,101 @@
+model,actual,predicted,count
+Naive Bayes,flood,flood,5
+Naive Bayes,flood,health,1
+Naive Bayes,flood,politics,0
+Naive Bayes,flood,sports,4
+Naive Bayes,flood,terrorism,0
+Naive Bayes,health,flood,0
+Naive Bayes,health,health,16
+Naive Bayes,health,politics,0
+Naive Bayes,health,sports,1
+Naive Bayes,health,terrorism,0
+Naive Bayes,politics,flood,0
+Naive Bayes,politics,health,2
+Naive Bayes,politics,politics,0
+Naive Bayes,politics,sports,4
+Naive Bayes,politics,terrorism,0
+Naive Bayes,sports,flood,0
+Naive Bayes,sports,health,0
+Naive Bayes,sports,politics,0
+Naive Bayes,sports,sports,19
+Naive Bayes,sports,terrorism,0
+Naive Bayes,terrorism,flood,0
+Naive Bayes,terrorism,health,3
+Naive Bayes,terrorism,politics,0
+Naive Bayes,terrorism,sports,4
+Naive Bayes,terrorism,terrorism,1
+Logistic Regression,flood,flood,9
+Logistic Regression,flood,health,0
+Logistic Regression,flood,politics,0
+Logistic Regression,flood,sports,1
+Logistic Regression,flood,terrorism,0
+Logistic Regression,health,flood,0
+Logistic Regression,health,health,16
+Logistic Regression,health,politics,0
+Logistic Regression,health,sports,1
+Logistic Regression,health,terrorism,0
+Logistic Regression,politics,flood,0
+Logistic Regression,politics,health,2
+Logistic Regression,politics,politics,0
+Logistic Regression,politics,sports,4
+Logistic Regression,politics,terrorism,0
+Logistic Regression,sports,flood,0
+Logistic Regression,sports,health,0
+Logistic Regression,sports,politics,0
+Logistic Regression,sports,sports,19
+Logistic Regression,sports,terrorism,0
+Logistic Regression,terrorism,flood,0
+Logistic Regression,terrorism,health,2
+Logistic Regression,terrorism,politics,0
+Logistic Regression,terrorism,sports,2
+Logistic Regression,terrorism,terrorism,4
+SVM,flood,flood,9
+SVM,flood,health,0
+SVM,flood,politics,0
+SVM,flood,sports,1
+SVM,flood,terrorism,0
+SVM,health,flood,0
+SVM,health,health,16
+SVM,health,politics,0
+SVM,health,sports,1
+SVM,health,terrorism,0
+SVM,politics,flood,1
+SVM,politics,health,2
+SVM,politics,politics,3
+SVM,politics,sports,0
+SVM,politics,terrorism,0
+SVM,sports,flood,0
+SVM,sports,health,0
+SVM,sports,politics,1
+SVM,sports,sports,18
+SVM,sports,terrorism,0
+SVM,terrorism,flood,0
+SVM,terrorism,health,1
+SVM,terrorism,politics,2
+SVM,terrorism,sports,0
+SVM,terrorism,terrorism,5
+Hybrid TF-IDF + SVM,flood,flood,9
+Hybrid TF-IDF + SVM,flood,health,0
+Hybrid TF-IDF + SVM,flood,politics,0
+Hybrid TF-IDF + SVM,flood,sports,1
+Hybrid TF-IDF + SVM,flood,terrorism,0
+Hybrid TF-IDF + SVM,health,flood,0
+Hybrid TF-IDF + SVM,health,health,17
+Hybrid TF-IDF + SVM,health,politics,0
+Hybrid TF-IDF + SVM,health,sports,0
+Hybrid TF-IDF + SVM,health,terrorism,0
+Hybrid TF-IDF + SVM,politics,flood,1
+Hybrid TF-IDF + SVM,politics,health,2
+Hybrid TF-IDF + SVM,politics,politics,3
+Hybrid TF-IDF + SVM,politics,sports,0
+Hybrid TF-IDF + SVM,politics,terrorism,0
+Hybrid TF-IDF + SVM,sports,flood,0
+Hybrid TF-IDF + SVM,sports,health,0
+Hybrid TF-IDF + SVM,sports,politics,1
+Hybrid TF-IDF + SVM,sports,sports,18
+Hybrid TF-IDF + SVM,sports,terrorism,0
+Hybrid TF-IDF + SVM,terrorism,flood,0
+Hybrid TF-IDF + SVM,terrorism,health,2
+Hybrid TF-IDF + SVM,terrorism,politics,1
+Hybrid TF-IDF + SVM,terrorism,sports,0
+Hybrid TF-IDF + SVM,terrorism,terrorism,5

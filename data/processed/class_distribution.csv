@@ -1,0 +1,11 @@
+stage,topic,tweets
+1. Original (351),sports,109
+1. Original (351),health,102
+1. Original (351),flood,63
+1. Original (351),terrorism,46
+1. Original (351),politics,31
+2. After cleaning (300),sports,93
+2. After cleaning (300),health,87
+2. After cleaning (300),flood,50
+2. After cleaning (300),terrorism,40
+2. After cleaning (300),politics,30

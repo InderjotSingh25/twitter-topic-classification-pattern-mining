@@ -1,0 +1,21 @@
+model,topic,precision,recall,f1,support
+Naive Bayes,flood,100.0,50.0,66.67,10
+Naive Bayes,health,72.73,94.12,82.05,17
+Naive Bayes,politics,0.0,0.0,0.0,6
+Naive Bayes,sports,59.38,100.0,74.51,19
+Naive Bayes,terrorism,100.0,12.5,22.22,8
+Logistic Regression,flood,100.0,90.0,94.74,10
+Logistic Regression,health,80.0,94.12,86.49,17
+Logistic Regression,politics,0.0,0.0,0.0,6
+Logistic Regression,sports,70.37,100.0,82.61,19
+Logistic Regression,terrorism,100.0,50.0,66.67,8
+SVM,flood,90.0,90.0,90.0,10
+SVM,health,84.21,94.12,88.89,17
+SVM,politics,50.0,50.0,50.0,6
+SVM,sports,90.0,94.74,92.31,19
+SVM,terrorism,100.0,62.5,76.92,8
+Hybrid TF-IDF + SVM,flood,90.0,90.0,90.0,10
+Hybrid TF-IDF + SVM,health,80.95,100.0,89.47,17
+Hybrid TF-IDF + SVM,politics,60.0,50.0,54.55,6
+Hybrid TF-IDF + SVM,sports,94.74,94.74,94.74,19
+Hybrid TF-IDF + SVM,terrorism,100.0,62.5,76.92,8
