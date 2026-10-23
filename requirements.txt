@@ -1,0 +1,8 @@
+# Adjust this list to match the imports in your own notebook.
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+mlxtend
+jupyter
