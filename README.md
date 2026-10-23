@@ -103,10 +103,8 @@ variants and hashtags. The two feature sets are joined and fed to a linear SVM.
 
 ## Team
 
-- [Member 1 name]
-- [Member 2 name]
-- [Member 3 name]
-- [Member 4 name]
+- [Inderjot Singh Matharoo]
+- [Vaibhav Mali]
 
 ## License
 
